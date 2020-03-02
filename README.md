@@ -1,5 +1,6 @@
 # AlliedBot
-![GitHub Logo](https://cdn.discordapp.com/icons/604737067389288448/a_ed10f97b727c8a810e4c619c5ba4597e.png?size=1024)
+![GitHub Logo](https://cdn.discordapp.com/icons/604737067389288448/a_ed10f97b727c8a810e4c619c5ba4597e.png?size=128)
+
 A Discord bot written for the allied gaming server
 
 
